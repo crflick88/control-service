@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "ControlService",
+    "packageName": "io.crf.cattlelog.control",
+    "packageFolder": "io/crf/cattlelog/control",
+    "serverPort": 8081,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.1.2",
+    "jwtSecretKey": "OTVjYzlmY2U4NjRjZWVlOTE5YjhjNWM0NGI4OTNmZGVkMTIyN2VlZjc1ZmRiN2E2YTVjZjNmMDkzNDRjZmFkNWM5MzU1MjU0NWUwOWRlOWI2NjgzZTIxMWEyNjg0MDg5MDkzZjRhNjQ4YTE0ZmY3NWE4NDRhMDRhNjE0NDJhNTY=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "crflick88",
+  "repository-name": "control-service"
+}
